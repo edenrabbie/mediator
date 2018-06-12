@@ -4,28 +4,28 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Eden Rabbie"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   At the intersection of startups and product management, to create value and outsmart doubt.
 
-email: a-mail@mail.mail
+email: eden@edenrabbie.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: false #"/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/photo.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Eden Rabbie'
+author: 'Eden Rabbie'
+author_image: false #"/assets/images/author.jpg"
 
 paginate:	5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@edenrabbie'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,7 +35,7 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/edenrabbie
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -48,12 +48,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+#  - icon:	github
+ #   url:	https://github.com/dirkfabisch
+  #  desc:	Fork me on github
+   # share_url:
+    #share_title:
+    #share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
@@ -61,3 +61,17 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+  - icon: medium
+    url: https://medium.com/@edenrabbie
+    desc: Follow me on Medium
+    share_url:
+    share_title:
+    share_link:
+    
+    - icon: linkedin
+    url: https://linkedin.com/in/edenrabbie
+    desc: Connect on LinkedIn
+    share_url:
+    share_title:
+    share_link:
